@@ -1,0 +1,10 @@
+{
+    "parent": "base:models/blocks/cube.json",
+    "textures":
+    {
+        "all":
+        {
+            "fileName": "example_mod:textures/blocks/texture_bardonium.png"
+        }
+    }
+}

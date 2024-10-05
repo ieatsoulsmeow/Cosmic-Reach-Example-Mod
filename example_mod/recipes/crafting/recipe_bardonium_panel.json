@@ -1,0 +1,34 @@
+{
+    "recipes":
+    [
+        {
+            "pattern": [
+                "***",
+                "***",
+                "***"
+            ],
+            "inputs":
+            {
+                "*": "example_mod:ingot_bardonium"
+            },
+            "output": 
+            {
+                "item": "example_mod:bardonium[default]",
+                "amount": 1
+            }
+        },
+        {
+            "inputs":
+            [
+                {
+                    "example_mod:bardonium[default]": 1
+                }
+            ],
+            "output": 
+            {
+                "item": "example_mod:ingot_bardonium",
+                "amount": 9
+            }
+        }
+    ]
+}

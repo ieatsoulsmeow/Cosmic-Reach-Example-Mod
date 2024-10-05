@@ -1,0 +1,14 @@
+{
+    "stringId": "example_mod:bardonium",
+    "blockStates":
+    {
+        "default":
+        {
+            "modelName": "example_mod:models/blocks/model_bardonium_panel.json",
+            "stateGenerators": ["base:slabs_all", "base:stairs_seamless_all"],
+            "tags": [
+                "tool_pickaxe_effective"
+            ]
+        }
+    }
+}

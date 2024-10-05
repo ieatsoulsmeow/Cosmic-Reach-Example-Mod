@@ -1,0 +1,8 @@
+{
+    "id": "example_mod:ingot_bardonium",
+    "itemProperties": 
+    {
+        "texture": "example_mod:textures/items/texture_ingot_bardonium.png",
+        "modelType": "base:item2D"
+    }
+}
